@@ -1,6 +1,6 @@
 ### Tools
 
-<img height="32" width="32" hex="#DD0031" src="https://unpkg.com/simple-icons@v7/icons/angular.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/angular-white.svg" />
 
 ### Stats and languages
 <div>
